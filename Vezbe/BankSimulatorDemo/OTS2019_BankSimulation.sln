@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTS2019_BankSimulation", "OTS2019_BankSimulation\OTS2019_BankSimulation.csproj", "{45B3EAEB-0B30-4792-BE5D-CC81DF819711}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTS2019_BankSimulation.Test", "OTS2019_BankSimulation.Test\OTS2019_BankSimulation.Test.csproj", "{2456367B-DE07-4CF4-B4AC-B0C4DDDE7CA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45B3EAEB-0B30-4792-BE5D-CC81DF819711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45B3EAEB-0B30-4792-BE5D-CC81DF819711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45B3EAEB-0B30-4792-BE5D-CC81DF819711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45B3EAEB-0B30-4792-BE5D-CC81DF819711}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2456367B-DE07-4CF4-B4AC-B0C4DDDE7CA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2456367B-DE07-4CF4-B4AC-B0C4DDDE7CA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2456367B-DE07-4CF4-B4AC-B0C4DDDE7CA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2456367B-DE07-4CF4-B4AC-B0C4DDDE7CA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76B78A51-D81F-4BF5-8692-ED3B3F63FD4A}
+	EndGlobalSection
+EndGlobal
